@@ -1,4 +1,4 @@
-# road-extraction
+# Road Extraction from Satellite Images
 🌍 Enhancing Urban Planning and Development with Satellite Imagery🛰️
 
 Understanding a site's infrastructure and street connectivity is crucial for urban planners and land developers. Yet, accessing comprehensive road data remains a challenge, especially in underdeveloped regions.
