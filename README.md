@@ -18,6 +18,9 @@ This project aims to uncover the potential of extracting road surfaces from high
 ## Dataset
 The **DeepGlobe 2018 Dataset** is a collection of satellite images designed for the DeepGlobe Challenge. It consists of high-resolution satellite imagery covering various regions of the Earth. The dataset is intended for tasks such as semantic segmentation and object detection in satellite images.
 
+![Samples](samples.png)
+
+
 ```
 !pip install kaggle
 !kaggle datasets download -d balraj98/deepglobe-road-extraction-dataset datasets
@@ -36,4 +39,4 @@ citation
 ```
 
 ## Result
-![Example Image](result.png)
+![Results](result.png)
