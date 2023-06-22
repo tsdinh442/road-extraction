@@ -1,4 +1,4 @@
-# Road Extraction from Satellite Images 🛰️
+# Road Extraction from Satellite Images Using UNet 🛰️
 
 Understanding a site's infrastructure and street connectivity is crucial for urban planners and land developers. Yet, accessing comprehensive road data remains a challenge, especially in underdeveloped regions.
 
@@ -24,8 +24,8 @@ The **DeepGlobe 2018 Dataset** is a collection of satellite images designed for 
 !pip install kaggle
 !kaggle datasets download -d balraj98/deepglobe-road-extraction-dataset datasets
 ```
-citation
 
+#### Acknowledgment
 ```
 @InProceedings{DeepGlobe18,
  author = {Demir, Ilke and Koperski, Krzysztof and Lindenbaum, David and Pang, Guan and Huang, Jing and Basu, Saikat and Hughes, Forest and Tuia, Devis and Raskar, Ramesh},
